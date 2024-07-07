@@ -82,5 +82,3 @@ Our model was evaluated on the test dataset using two approaches:
 </table>
 
 These results validate the model's effectiveness in accurately detecting deepfake content under varied test conditions.
-
-## Future Works
